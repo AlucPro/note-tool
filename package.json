@@ -1,0 +1,34 @@
+{
+  "name": "note-tool",
+  "version": "0.0.1",
+  "description": "A NodeJS script that deal with markdown note.",
+  "type": "module",
+  "main": "src/index.js",
+  "bin": {
+    "note": "src/index.js"
+  },
+  "scripts": {
+    "test": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlucPro/note-tool.git"
+  },
+  "keywords": [
+    "note",
+    "obsidian",
+    "flomo",
+    "logseq",
+    "markdown",
+    "roamresearch"
+  ],
+  "author": "Ming (alucpro)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AlucPro/note-tool/issues"
+  },
+  "homepage": "https://github.com/AlucPro/note-tool#readme",
+  "dependencies": {
+    "chalk": "4"
+  }
+}
