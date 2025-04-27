@@ -1,6 +1,6 @@
 {
   "name": "@alucpro/note-tool",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A NodeJS script that deal with markdown note.",
   "type": "module",
   "main": "src/index.js",
