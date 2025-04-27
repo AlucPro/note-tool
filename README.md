@@ -4,7 +4,7 @@ A NodeJS script that deal with markdown note.
 
 Supports:
 
-- flomo export html note to markdown;
+- **flomo export html note to markdown;**
 
 ## how to start
 
@@ -21,7 +21,7 @@ then you can use `note` cli cmd.
 You need set a local config to tell note-tool where you notes store.
 
 ```bash
-note nev
+note env
 ```
 
 This cmd will check you config file.
