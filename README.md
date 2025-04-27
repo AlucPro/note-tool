@@ -2,12 +2,16 @@
 
 A NodeJS script that deal with markdown note.
 
+Supports:
+
+- flomo export html note to markdown;
+
 ## how to start
 
 1. install
 
 ```bash
-npm i -g note-tool
+npm i -g @alucpro/note-tool
 ```
 
 then you can use `note` cli cmd.
@@ -31,3 +35,9 @@ Then, you should update you config.json.
   "FLOMO_HTML_SOURCE_DIR": "../../note_flomo_source" // export your flomo html-style notes to here
 }
 ```
+
+## feature
+
+- `note`: view help doc;
+- `note env`: check local env;
+- `note flomo2md`: trans flomo export html note to markdown;
